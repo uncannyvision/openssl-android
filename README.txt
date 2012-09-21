@@ -1,3 +1,9 @@
+Note from Uncannyvision:
++Added Support for static library
++To build: ndk-build ssltest
++Then copy the obj/local/armeabi-v7a/lib* to your projects correspoding folder.
+
+----------------------------------------------
 
 This is a version of the official Android openssl sources, but it is meant to be built as a standalone library to be embedded into app.
 
